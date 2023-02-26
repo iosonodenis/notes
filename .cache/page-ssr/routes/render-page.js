@@ -3733,7 +3733,8 @@ function getForwards(collectedScripts) {
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 exports.components = {
-  "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default"))
+  "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
+  "component---node-modules-gatsby-theme-andy-src-templates-note-js": () => __webpack_require__.e(/*! import() | component---node-modules-gatsby-theme-andy-src-templates-note-js */ "component---node-modules-gatsby-theme-andy-src-templates-note-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../node_modules/gatsby-theme-andy/src/templates/note.js?export=default */ "./node_modules/gatsby-theme-andy/src/templates/note.js?export=default"))
 };
 
 exports.head = {};
@@ -4393,7 +4394,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Object.assign({}));
+var scope_0 = (__webpack_require__(/*! ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/bb371b604cd58d6bdc41f05f30d23fb7.js */ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/bb371b604cd58d6bdc41f05f30d23fb7.js")["default"]);
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Object.assign({}, scope_0));
 
 /***/ }),
 
@@ -4562,6 +4564,26 @@ const WrapRootElement = ({
   element
 }) => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(MDXConsumer, null, element);
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (WrapRootElement);
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/bb371b604cd58d6bdc41f05f30d23fb7.js":
+/*!********************************************************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-mdx/mdx-scopes-dir/bb371b604cd58d6bdc41f05f30d23fb7.js ***!
+  \********************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  React: react__WEBPACK_IMPORTED_MODULE_0__
+});
 
 /***/ }),
 
@@ -9038,6 +9060,17 @@ module.exports = require("/Users/denis/GitHub/notes/node_modules/react/index.js"
 
 "use strict";
 module.exports = require("crypto");
+
+/***/ }),
+
+/***/ "querystring":
+/*!******************************!*\
+  !*** external "querystring" ***!
+  \******************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = require("querystring");
 
 /***/ }),
 
