@@ -6,7 +6,7 @@ I have been following the trend of meta-productivity (or productivity porn) for 
 
 Here I decided to let it go and to embrace anti-perfectionism, seeing my ideas and letting them grow.
 
-Browsing this site should be like finding a Moleskine with notes about AI, climate change and more.
+Browsing this site should be like finding a Moleskine with notes about AI, climate change and more. You can start with [[mumbai-2050]].
 
 Notes will likely be in two languages: I am Italian but I hope to reach to anyone regarding language barriers.
 
@@ -19,6 +19,6 @@ Per troppo tempo ho seguito i vari trend di meta-produttività (o productivity p
 
 Qui decido di abbandonare il perfezionismo che blocca.
 
-Trovare questo sito dovrebbe essere come trovare la Moleskine con note su AI, cambiamento climato e chissà che altro.
+Trovare questo sito dovrebbe essere come trovare la Moleskine con note su AI, cambiamento climato e chissà che altro. Si inizia con [[mumbai-2050]].
 
 Le note saranno in due lingue, non sempre assieme.
