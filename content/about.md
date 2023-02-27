@@ -1,24 +1,16 @@
-Welcome to my open notebook or, to use a more appropriate term, my [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). A place where, as brilliantly put by technologyreview website:
+Welcome to what I call as my _public moleskine_ or, by using a more common term, my [[digital-garden]] : a collection of ideas, thoughts, researches without any particular oder. My own little corner of internet.
 
->  Digital gardens let you cultivate your own little bit of the internet
+Matters that I care are: climate change, ai, a bit of how lives are driven by technologies, music and nostalgia.
 
-I have been following the trend of meta-productivity (or productivity porn) for years, hoping that one day I could share my ideas through a blog, then social media, then Twitter, then podcast, then Substack, and so on.
+Talking about climate change, my first note is about [[mumbai-2050]]
 
-Here I decided to let it go and to embrace anti-perfectionism, seeing my ideas and letting them grow.
-
-Browsing this site should be like finding a Moleskine with notes about AI, climate change and more. You can start with [[mumbai-2050]].
-
-Notes will likely be in two languages: I am Italian but I hope to reach to anyone regarding language barriers.
+Notes could be in Italian or English, or one of the two languages.
 
 ---
-Benvenuti nel mio taccuino pubblico o, per usare un termine più appropriato, il mio [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). Pagine che, come brillantemente descritte da MIT Technology Review:
+Benvenuti in quella che considero la mia _Moleskine_ pubblica: una raccolta di appunti, pensieri, idee e ricerche senza nessun preciso ordine. Questo è noto anche come [[digital-garden]]: il proprio piccolo internet personale. Qui decido di abbandonare il perfezionismo che blocca prima ancora partire.
 
-> Un posto dove coltivare il tuo piccolo internet.
+Temi che mi stanno a cuore: cambiamento climato, intelligenza artificiale, musica, fotografia e arti, nostalgie miste.
 
-Per troppo tempo ho seguito i vari trend di meta-produttività (o productivity porn), sperando un giorno di condividere e connettere attraverso un blog, che poi doveva essere una pagina Facebook, on un Twitter, o un Instagram, poi un ritorno a Tumbler, poi un podcast, un substack e via così.
-
-Qui decido di abbandonare il perfezionismo che blocca.
-
-Trovare questo sito dovrebbe essere come trovare la Moleskine con note su AI, cambiamento climato e chissà che altro. Si inizia con [[mumbai-2050]].
+E parlando di climate change, la mia prima nota è su  [[mumbai-2050]]
 
 Le note saranno in due lingue, non sempre assieme.
