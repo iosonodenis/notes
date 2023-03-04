@@ -1,0 +1,2 @@
+Fuck you money it’s the amount of money you need to live the kind of life you want to live, without selling your soul to the man.
+It’s all about how much money you can save—and later invest—out of the money that you make.

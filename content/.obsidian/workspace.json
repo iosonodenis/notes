@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff649d36ae938b1",
+        "id": "40b9b30ce3b78a10",
         "type": "tabs",
         "children": [
           {
-            "id": "dd4e89930c7c200e",
+            "id": "8f7aeddaeffddcb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "vynil.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "68a020765adec659",
+            "id": "9fcafaa5ecaa2361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "digital-garden.md",
+                "file": "notetaking-apps.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fcdc3754f91df7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vynil.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f8a9eaa4aac649bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fuck-you-money.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital-garden.md",
+                "file": "fuck-you-money.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digital-garden.md",
+                "file": "fuck-you-money.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital-garden.md"
+                "file": "fuck-you-money.md"
               }
             }
           }
@@ -159,10 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a020765adec659",
+  "active": "f8a9eaa4aac649bc",
   "lastOpenFiles": [
+    "The pain of GA4.md",
+    "Privacy friendly web analytics tools.md",
+    "Todo-list.md",
     "about.md",
+    "fuck-you-money.md",
+    "vynil.md",
     "digital-garden.md",
+    "notetaking-apps.md",
     "mumbai-2050.md",
     "venezia-2050.md",
     "content.md"
